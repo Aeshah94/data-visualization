@@ -23,7 +23,7 @@ We can also combine the original dataset with the data on the number of subscrib
 
 
 ![Netflix Dshbored](netflix_1.png)
-(netflix_2.png)
+![Netflix Dshboredd](netflex_2.png)
 
 
 Overall, we have drawn many interesting inferences from the Netflix titles dataset; Here is a summary of some of them:
