@@ -1,5 +1,5 @@
 # Visualisation Evaluation
-**Course:** CMT218
+
 
 Netflix has achieved incredible growth over the past decade, both in terms of subscribers and revenue. Netflix is available for viewers to watch in 110 countries worldwide, with international subscribers feeding most of its impressive rise over the past several years. However, the question is, given all these great results, what is there on Netflix? What content allows Netflix to nearly double its revenue in just three years, showing $ 20.15 billion in 2019, as the number of paid subscribers continues to grow despite the rise in the subscription price? Does Netflix have more TV shows or Movies? How 'old' is the content on Netflix? 
 
@@ -19,7 +19,11 @@ Due to the limited scope of the analysis, a certain amount of meaningful questio
 - Who actors do we often see on Netflix?
 - Is the average length of the movie gradually increasing as more and more opportunities for consumers to enjoy it in the comfort of their own homes?
 
-We can also combine the original dataset with the data on the number of subscribers that Netflix had when the title is added to the Netflix streaming library so that we can show the number of subscribers on Netflix, as well as the dynamics of the subscriber base growth and its correlation with the number of titles added. 
+We can also combine the original dataset with the data on the number of subscribers that Netflix had when the title is added to the Netflix streaming library so that we can show the number of subscribers on Netflix, as well as the dynamics of the subscriber base growth and its correlation with the number of titles added.
+
+
+![Netflix Dshbored](relative_path_to_image.png)
+
 
 Overall, we have drawn many interesting inferences from the Netflix titles dataset; Here is a summary of some of them:
 - The most common types of content on Netflix are movies.
