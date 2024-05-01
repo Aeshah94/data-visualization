@@ -22,7 +22,8 @@ Due to the limited scope of the analysis, a certain amount of meaningful questio
 We can also combine the original dataset with the data on the number of subscribers that Netflix had when the title is added to the Netflix streaming library so that we can show the number of subscribers on Netflix, as well as the dynamics of the subscriber base growth and its correlation with the number of titles added.
 
 
-![Netflix Dshbored](relative_path_to_image.png)
+![Netflix Dshbored](netflix_1.png)
+(netflix_2.png)
 
 
 Overall, we have drawn many interesting inferences from the Netflix titles dataset; Here is a summary of some of them:
